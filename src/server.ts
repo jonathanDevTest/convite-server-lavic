@@ -30,7 +30,7 @@ const transporter = nodemailer.createTransport({
 const app = express()
 
 //const corsOptions = {
-//  origin: 'https://rosileneangelo.vercel.app',
+//  origin: 'https://convite-lavic.vercel.app',
 //  optionsSuccessStatus: 200,
 //  methods: "GET, PUT, POST"
 //}
